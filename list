@@ -1,0 +1,7 @@
+local Games = {
+  [3956818381] = "https://raw.githubusercontent.com/AmeloxRUS/guiforninjalegend/refs/heads/main/guininjalegends", -- Ninja legends
+  [74698489978941] = "https://raw.githubusercontent.com/AmeloxRUS/PlantsVsFishes/refs/heads/main/fishser" -- Plants Vs Fishes
+
+}
+
+return Games

@@ -1,7 +1,8 @@
 local Games = {
   [3956818381] = "https://raw.githubusercontent.com/AmeloxRUS/guiforninjalegend/refs/heads/main/guininjalegends", -- Ninja legends
   [74698489978941] = "https://raw.githubusercontent.com/AmeloxRUS/PlantsVsFishes/refs/heads/main/fishser", -- Plants Vs Fishes
-  [9872472334] = "https://raw.githubusercontent.com/AmeloxRUS/evade-script/refs/heads/main/evade" -- Evade
+  [9872472334] = "https://raw.githubusercontent.com/AmeloxRUS/evade-script/refs/heads/main/evade", -- Evade
+  [100591810023752] = "https://raw.githubusercontent.com/AmeloxRUS/grab-battles/refs/heads/main/grabattles" -- Grab Battles
 
 }
 

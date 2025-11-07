@@ -5,7 +5,8 @@ local Games = {
   [100591810023752] = "https://raw.githubusercontent.com/AmeloxRUS/grab-battles/refs/heads/main/grabattles", -- Grab Battles
   [142823291] = "https://raw.githubusercontent.com/AmeloxRUS/mm2/refs/heads/main/mm2", -- mm2
   [13827198708] = "https://raw.githubusercontent.com/AmeloxRUS/pullasword/refs/heads/main/pullaswords", -- pull a sword (IN DISCORD OPEN SOURCE!)
-  [16732694052] = "https://raw.githubusercontent.com/AmeloxRUS/fisch/refs/heads/main/fisch" -- fisch
+  [16732694052] = "https://raw.githubusercontent.com/AmeloxRUS/fisch/refs/heads/main/fisch", -- fisch
+  [121864768012064] = "https://raw.githubusercontent.com/AmeloxRUS/FishIt/refs/heads/main/fishit", -- fisch it
 
 }
 

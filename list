@@ -7,6 +7,7 @@ local Games = {
   [13827198708] = "https://raw.githubusercontent.com/AmeloxRUS/pullasword/refs/heads/main/pullaswords", -- pull a sword (IN DISCORD OPEN SOURCE!)
   [16732694052] = "https://raw.githubusercontent.com/AmeloxRUS/fisch/refs/heads/main/fisch", -- fisch
   [121864768012064] = "https://raw.githubusercontent.com/AmeloxRUS/FishIt/refs/heads/main/fishit", -- fisch it
+  [662417684] = "https://raw.githubusercontent.com/AmeloxRUS/luckblock/refs/heads/main/wqeqwe" -- LUCKY BLOCKS Battlegrounds
 
 }
 

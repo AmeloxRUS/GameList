@@ -9,8 +9,8 @@ local Games = {
   [121864768012064] = "https://raw.githubusercontent.com/AmeloxRUS/FishIt/refs/heads/main/fishit", -- fisch it
   [662417684] = "https://raw.githubusercontent.com/AmeloxRUS/luckblock/refs/heads/main/wqeqwe", -- LUCKY BLOCKS Battlegrounds
   [102871156420149] = "https://raw.githubusercontent.com/AmeloxRUS/svogoyda/refs/heads/main/svo", -- the lost front
-  [95457676979352] = "https://raw.githubusercontent.com/AmeloxRUS/smashatower/refs/heads/main/smash" -- SMASH a Tower
-
+  [95457676979352] = "https://raw.githubusercontent.com/AmeloxRUS/smashatower/refs/heads/main/smash", -- SMASH a Tower
+  [131623223084840] = "https://raw.githubusercontent.com/AmeloxRUS/brainrotshit/refs/heads/main/www" -- Escape Tsunami For Brainrot
 }
 
 return Games
